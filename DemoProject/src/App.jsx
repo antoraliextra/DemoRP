@@ -4,7 +4,7 @@ import viteLogo from '/vite.svg'
 import './App.css'
 
 
-const headingStyle = 'bg-green-700 px-10 rounded-xl py-3 text-blue-700'
+const headingStyle = 'bg-green-700 px-10 rounded-xl py-3 text-blue-700 shadow-xl'
 
 
 function App() {
